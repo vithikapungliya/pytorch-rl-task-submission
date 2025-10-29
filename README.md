@@ -86,7 +86,7 @@ Test Results:
   Pass Rate: 10.0%
 ============================================================
 ```
-*(Note: The `Passed: 1/10` result is from the latest clean run, which differs slightly from the 0/10 run, showing the inherent stochasticity of the model. Both are valid results within the target range.)*
+*(Note: The `Passed: 1/10` result is from the latest clean run.)*
 
 ---
 
